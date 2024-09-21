@@ -1,0 +1,6 @@
+﻿  first_app.cpp
+  main.cpp
+  V_window.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VulkanProject.vcxproj -> C:\Users\jerem\Documents\VSProject\VulkanProject\VulkanProject\x64\Debug\VulkanProject.exe
