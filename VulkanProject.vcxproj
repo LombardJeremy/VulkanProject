@@ -249,6 +249,11 @@
       <LinkCompiled>true</LinkCompiled>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="compile.bat" />
+    <Content Include="Shaders\simple_shader.frag" />
+    <Content Include="Shaders\simple_shader.vert" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
