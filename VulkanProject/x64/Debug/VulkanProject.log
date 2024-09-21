@@ -1,0 +1,8 @@
+﻿  first_app.cpp
+C:\Users\jerem\Documents\VSProject\VulkanProject\Private\first_app.cpp(1,10): error C1083: Cannot open include file: 'first_app.h': No such file or directory
+  main.cpp
+C:\Users\jerem\Documents\VSProject\VulkanProject\Private\main.cpp(1,10): error C1083: Cannot open include file: 'first_app.h': No such file or directory
+  V_window.cpp
+C:\Users\jerem\Documents\VSProject\VulkanProject\Private\V_window.cpp(1,10): error C1083: Cannot open include file: 'V_window.h': No such file or directory
+  Running Code Analysis for C/C++...
+  Generating Code...

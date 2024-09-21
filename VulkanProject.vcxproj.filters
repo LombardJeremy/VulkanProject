@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="first_app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="V_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="first_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="V_window.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="first_app.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="V_window.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="first_app.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
