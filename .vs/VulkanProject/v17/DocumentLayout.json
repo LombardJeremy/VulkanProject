@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\Shesh\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|solutionrelative:Shesh\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\Shesh\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shesh\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\V_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|solutionrelative:V_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\V_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:V_window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A881C681-FDCD-4836-81A4-9ED55E1D9048}|VulkanProject.vcxproj|solutionrelative:first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first_app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,10 +32,8 @@
               "RelativeDocumentMoniker": "Shesh\\first_app.cpp",
               "ToolTip": "C:\\Users\\jerem\\Documents\\VSProject\\VulkanProject\\Shesh\\first_app.cpp",
               "RelativeToolTip": "Shesh\\first_app.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-21T16:04:58.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T16:04:58.338Z"
             },
             {
               "$type": "Document",
@@ -47,8 +45,7 @@
               "RelativeToolTip": "V_window.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T15:55:54.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T15:55:54.064Z"
             },
             {
               "$type": "Document",

@@ -15,22 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="first_app.h">
+    <ClInclude Include="Header\first_app.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="V_window.h">
+    <ClInclude Include="Header\ve_pipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\V_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\ve_engine_device.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="first_app.cpp">
+    <ClCompile Include="Source\first_app.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Source\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="V_window.cpp">
+    <ClCompile Include="Source\ve_pipeline.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\V_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ve_device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\simple_shader.frag" />
+    <None Include="Shaders\simple_shader.vert" />
+    <None Include="Shaders\spv\frag.spv" />
+    <None Include="Shaders\spv\vert.spv" />
   </ItemGroup>
 </Project>
