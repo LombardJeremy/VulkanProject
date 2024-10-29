@@ -1,8 +1,12 @@
 #pragma once
 
-#include "V_window.h"
 #include "ve_pipeline.h"
 #include "ve_engine_device.hpp"
+#include "ve_swap_chain.hpp"
+#include "V_window.h"
+
+//std
+#include <memory>
 
 namespace ve {
 	class FirstApp {
@@ -14,6 +18,7 @@ namespace ve {
 	private:
 		VeWindow veWindow{ WIDTH, HEIGHT, "Vulkan" };
 		VeDevice veDevice{veWindow};
+		VeSwapChain veSwapChain{veDevice, veWindow.getExtent()};
 		VePipeline vePipeline{
 			veDevice,
 			"Shaders/spv/vert.spv",

@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header\first_app.h" />
+    <ClInclude Include="Header\ve_swap_chain.hpp" />
     <ClInclude Include="Header\ve_engine_device.hpp" />
     <ClInclude Include="Header\ve_pipeline.h" />
     <ClInclude Include="Header\V_window.h" />
@@ -175,6 +176,7 @@
       <AdditionalIncludeDirectories>C:\Program Files\Microsoft Visual Studio\2022\Community\Librairies\glm;C:\Program Files\Microsoft Visual Studio\2022\Community\Librairies\glfw-3.4.bin.WIN64\include;C:\VulkanSDK\1.3.290.0\Include;</AdditionalIncludeDirectories>
       <LinkCompiled>true</LinkCompiled>
     </ClCompile>
+    <ClCompile Include="Source\ve_swap_chain.cpp" />
     <ClCompile Include="Source\ve_device.cpp" />
     <ClCompile Include="Source\ve_pipeline.cpp">
       <RuntimeLibrary>MultiThreadedDebugDll</RuntimeLibrary>
